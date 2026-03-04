@@ -37,7 +37,7 @@ The game allows users to play against the computer with real-time score updates 
 ```
 
 ## 🌐 Live Demo
-
+https://avishi0611.github.io/Rock-Paper-Scissors--Game/
 
 ## 🤝 Contributing
 
